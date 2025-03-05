@@ -17,7 +17,7 @@
 
 ## Fejlesztői környezet
 
-**IDE** Delphi XE12
+**IDE:** Delphi XE12
 
 **DB:** Microsoft SQL Server 2022 Express
 
